@@ -80,17 +80,17 @@ Whereas it is possible to come up with recommendations on potential sets of cast
 
 ## Example of  a film to produce
 
-<img src="">
-<img src="">
+<img src="images/action producers roi.png">
+<img src="images/action producers profits.png">
 
-<img src="">
-<img src="">
+<img src="images/action directors roi.png">
+<img src="images/action directors profits.png">
 
-<img src="">
-<img src="">
+<img src="images/action writers roi.png">
+<img src="images/action writers profits.png">
 
-<img src="">
-<img src="">
+<img src="images/action actors roi.png">
+<img src="images/action actors profits.png">
 
 - Genre: **Action** - highest profits, high median ROI
 - Producers: **Kevin Feidge** - high median ROI, a significant number of films in the last 5 years (3 films produced)
