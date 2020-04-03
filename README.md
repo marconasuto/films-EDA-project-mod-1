@@ -80,6 +80,18 @@ Whereas it is possible to come up with recommendations on potential sets of cast
 
 ## Example of  a film to produce
 
+<img src="">
+<img src="">
+
+<img src="">
+<img src="">
+
+<img src="">
+<img src="">
+
+<img src="">
+<img src="">
+
 - Genre: **Action** - highest profits, high median ROI
 - Producers: **Kevin Feidge** - high median ROI, a significant number of films in the last 5 years (3 films produced)
 - Directors: **Anthony Russo** - high median ROI, high number of films in the last 5 years
