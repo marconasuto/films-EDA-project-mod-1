@@ -48,10 +48,10 @@ To do so, we used two models:
 From the data we learnt that:
 
 ![](images/profits-budget.png)
-    - High profits require high budget
+    - **High profits require high budget**
 
 ![](images/roi-budget.png)
-    - ROI and budget are not related
+    - **ROI and budget are not related**
 
 We spotted **three main genres** where to start producing films by ROI: 
 
@@ -78,7 +78,7 @@ We also see potential in **two more genres** that have been growing in the last 
 Whereas it is possible to come up with recommendations on potential sets of cast to hire for Action, Adventure, Animation and Comedy films, there is not enough data for Horror films.
 
 ## Example of  a film to produce
-
+As a final recommendation, we picked the best genre and cast to start with from a profitability point-of-view.
 <img src="images/action producers roi.png">
 <img src="images/action producers profits.png">
 
