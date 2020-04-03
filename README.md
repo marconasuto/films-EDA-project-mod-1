@@ -6,7 +6,27 @@ What are the best films to be produced by Return-On-Investment and profits? An e
 
 ## Project Outline
 
-
+    ├── LICENSE
+    ├── README.md                  <- The project layout (this file)
+    ├── data
+    │   ├── images                 <- For README.md and presentation
+    │   ├── external               <- Data from imdbpro
+    │   ├── interim                <- Intermediate data that has been transformed
+    │   ├── processed              <- The final, canonical data sets for analysis
+    │   └── raw                    <- The original, immutable data dump
+    │
+    ├── notebooks                  <- Jupyter notebooks
+    │   └── data_gathering.ipynb   <- Process for obtaining desired data points
+    │   └── data_cleaning.ipynb   <- Process for cleaning the data
+    │   └── eda.ipynb              <- Process for exploring and analyzing the data
+    │
+    ├── reports                    <- Reports and presentations
+    │   └── presentation.pdf       <- Non-technical presentation
+    │   └── blog.md                <- Blog post
+    │   └── video_walkthrough      <- Link to video walkthrough
+    │
+    │
+    └── requirements.txt           <- The requirements file for reproducing the analysis environment 
 ## Recommendations
 Our guiding question throughout our analysis has been:
 
