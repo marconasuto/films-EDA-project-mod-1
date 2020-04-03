@@ -9,9 +9,11 @@ Mini-website: https://readymag.com/kosmonauts/action-eda/
 
 ## Recommendations
 Our guiding question throughout our analysis has been:
+
     - What type of films are currently doing the best?
 
 In the context of Microsoft willing to open a movie studio, this question could be translated as:
+
     - In what type of films Microsoft should invest?
 
 In terms of investment, initial budget, profits and Return-Of-Investment (ROI) are keys. 
@@ -27,30 +29,30 @@ To do so, we used two models:
 
 From the data we learnt that:
 
-/Users/marco_nasuto/Desktop/profits-budget.png
+![](/Users/marco_nasuto/Desktop/profits-budget.png)
     - High profits require high budget
 
-/Users/marco_nasuto/Desktop/roi-budget.png
+![](/Users/marco_nasuto/Desktop/roi-budget.png)
     - ROI and budget are not related
 
 We spotted three main genres where to start producing films by ROI: 
 
-/Users/marco_nasuto/Desktop/profits-per-genres.png
+![](/Users/marco_nasuto/Desktop/profits-per-genres.png)
 
 /Users/marco_nasuto/Desktop/roi by genres .png
 
     - Action
-/Users/marco_nasuto/Desktop/roi action years.png
+![](/images/roi action years.png)
     - Adventure
-/Users/marco_nasuto/Desktop/roi adventure years.png
+![](/images/roi adventure years.png)
     - Animation
-/Users/marco_nasuto/Desktop/roi animation years.png
+![](/images/roi animation years.png)
 
   We also see potential in two more genres that have been growing in the last 5 years
     - Comedy
-/Users/marco_nasuto/Desktop/roi comedy years.png
+![](/images/roi comedy years.png)
     - Horror
-/Users/marco_nasuto/Desktop/roi horror years.png
+![](/images/roi horror years.png)
 
 Whereas it is possible to come up with recommendations on potential sets of cast to hire for Action, Adventure, Animation and Comedy films, there is not enough data for Horror films.
 
