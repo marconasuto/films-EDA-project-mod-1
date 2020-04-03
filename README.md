@@ -11,7 +11,6 @@ What are the best films to be produced by Return-On-Investment and profits? An e
     ├── data
     │   ├── images                 <- For README.md and presentation
     │   ├── external               <- Data from imdbpro
-    │   ├── interim                <- Intermediate data that has been transformed
     │   ├── processed              <- The final, canonical data sets for analysis
     │   └── raw                    <- The original, immutable data dump
     │
