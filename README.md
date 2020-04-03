@@ -39,7 +39,7 @@ We spotted three main genres where to start producing films by ROI:
 
 ![](images/profits-per-genres.png)
 
-/Users/marco_nasuto/Desktop/roi by genres .png
+![](images/roi by genres.png)
 
     - Action
 ![](images/roi action years.png)
