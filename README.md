@@ -2,7 +2,7 @@
 
 What are the best films to be produced by Return-On-Investment and profits? An exploratory data analysis on film production in the last 5 years, from 2014 to 2019, using scraped data from IMDBPro. A project developed for Module 1 of the Online Data Science Bootcamp at Flatiron School.
 
-Mini-website: https://readymag.com/kosmonauts/action-eda/
+[Mini-website](https://readymag.com/kosmonauts/action-eda/)
 
 ## Project Outline
 
@@ -35,28 +35,27 @@ From the data we learnt that:
 ![](images/roi-budget.png)
     - ROI and budget are not related
 
-We spotted three main genres where to start producing films by ROI: 
+We spotted **three main genres** where to start producing films by ROI: 
 
 ![](images/profits-per-genres.png)
+<img src="images/roi by genres .png">
 
-![](images/roi by genres .png)
+ <h2>Action</h2>
+<img src="images/roi action years.png">
 
-    - Action
-![](images/roi action years.png)
+<h2>Adventure</h2>
+<img src="images/roi adventure years.png">
 
-    - Adventure
-![](images/roi adventure years.png)
+<h2>Animation</h2>
+<img src="images/roi animation years.png">
 
-    - Animation
-![](images/roi animation years.png)
-
-  We also see potential in two more genres that have been growing in the last 5 years
+We also see potential in **two more genres** that have been growing in the last 5 years
   
-    - Comedy
-![](images/roi comedy years.png)
+<h2>Comedy</h2>
+<img src="images/roi comedy years.png">
 
-    - Horror
-![](images/roi horror years.png)
+<h2>Horror</h2>
+<img src="images/roi horror years.png">
 
 Whereas it is possible to come up with recommendations on potential sets of cast to hire for Action, Adventure, Animation and Comedy films, there is not enough data for Horror films.
 
