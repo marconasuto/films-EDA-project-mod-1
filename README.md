@@ -29,30 +29,30 @@ To do so, we used two models:
 
 From the data we learnt that:
 
-![](/Users/marco_nasuto/Desktop/profits-budget.png)
+![](images/profits-budget.png)
     - High profits require high budget
 
-![](/Users/marco_nasuto/Desktop/roi-budget.png)
+![](images/roi-budget.png)
     - ROI and budget are not related
 
 We spotted three main genres where to start producing films by ROI: 
 
-![](/Users/marco_nasuto/Desktop/profits-per-genres.png)
+![](images/profits-per-genres.png)
 
 /Users/marco_nasuto/Desktop/roi by genres .png
 
     - Action
-![](/images/roi action years.png)
+![](images/roi action years.png)
     - Adventure
-![](/images/roi adventure years.png)
+![](images/roi adventure years.png)
     - Animation
-![](/images/roi animation years.png)
+![](images/roi animation years.png)
 
   We also see potential in two more genres that have been growing in the last 5 years
     - Comedy
-![](/images/roi comedy years.png)
+![](images/roi comedy years.png)
     - Horror
-![](/images/roi horror years.png)
+![](images/roi horror years.png)
 
 Whereas it is possible to come up with recommendations on potential sets of cast to hire for Action, Adventure, Animation and Comedy films, there is not enough data for Horror films.
 
