@@ -2,7 +2,7 @@
 
 What are the best films to be produced by Return-On-Investment and profits? An exploratory data analysis on film production in the last 5 years, from 2014 to 2019, using scraped data from IMDBPro. A project developed for Module 1 of the Online Data Science Bootcamp at Flatiron School.
 
-[Blog post/mini-website: Action! An Exploratory Data Analysis on Film Production](https://readymag.com/kosmonauts/action-eda/)
+[Blog post/mini-website: Action! An Exploratory Data Analysis on Film Production](https://action.marconasuto.com/)
 
 Our guiding question throughout our analysis has been:
 
